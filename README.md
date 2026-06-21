@@ -23,6 +23,23 @@ Turns a niche + city into a list of **contactable, qualified prospects** — eac
 
 ---
 
+## ⚡ Why it's different
+
+> **Most lead tools hand you a contact. Prospector hands you the contact _and the reason to call_** — a verified decision-maker, three fact-checked reasons their marketing is leaking money, and their competitors named.
+
+|  | Typical lead database / scraper | **Prospector** |
+|---|---|---|
+| **Output** | name · email · phone | contact **+ 3 fact-checked talking points + named competitors** |
+| **Decision-maker** | role-guessed / generic inbox | **name-matched company director** (no wrong-owner) |
+| **Data integrity** | stale, guessed, fills blanks | **never fabricates** — blank beats wrong |
+| **UK tradesmen** | thin (built on corporate data) | **deep** (company registry, niche-specific) |
+| **Cost** | per-export fees / unbounded | **hard budget cap + dedup** (never re-pays) |
+| **Reliability** | throwaway script | **retry + crash-resume, 139 tests** |
+
+It's not a contact list — it's a **sales-enablement engine**: every row is a prospect *plus* a ready, evidence-based opening.
+
+---
+
 ## The problem
 
 A performance-marketing agency lives or dies by its pipeline of qualified prospects. Doing
