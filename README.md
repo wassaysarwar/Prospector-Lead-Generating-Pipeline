@@ -123,5 +123,11 @@ registry, an email-verification service) · Excel I/O · pytest (mocked) · pyfl
 
 ## 👤 Author
 
-**Wassay Sarwar** — building data pipelines & marketing-automation systems.
+**Wassay Sarwar** — I build the systems behind growth: ad campaigns, funnels, websites,
+and the Python automation underneath. AI-assisted development, shipped end-to-end to
+production.
+
+- 💼 LinkedIn: [in/wassay-sarwar](https://www.linkedin.com/in/wassay-sarwar)
+- 📧 wassaysarwar@gmail.com
+
 This repository is shared as a work sample; see [LICENSE](LICENSE).
