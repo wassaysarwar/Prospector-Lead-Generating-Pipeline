@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Generated data (never commit lead output / PII)
+outputs/
+*.env
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*
+.idea/
+.vscode/

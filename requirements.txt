@@ -1,0 +1,5 @@
+# Runtime (infrastructure layer shown in this repo)
+requests>=2.31
+
+# Dev / tests
+pytest>=7.0
